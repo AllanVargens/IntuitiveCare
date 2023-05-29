@@ -1,0 +1,16 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
+
+  *{
+    text-decoration: none;
+    /* margin: 0 auto; */
+  }
+
+body{
+    width: 100%;
+    display: flex;
+    justify-items: start;
+    flex-direction: column;
+    background-color: #000000;
+    font-family: 'IBM Plex Serif', serif , sans-serif;  
+}
